@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated files
+*.png
+!acc_vs_max_depth.png
+trained_decision_tree_limited*
+car.data
